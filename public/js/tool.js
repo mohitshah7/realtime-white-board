@@ -1,5 +1,5 @@
 // connect to socket server
-const socket = io.connect("https://pepboard-1.onrender.com");
+const socket = io.connect("https://realtime-white-board-6cxt.onrender.com");
 // *********************************Basic Setup
 const board = document.querySelector(".board");
 board.height = window.innerHeight;
